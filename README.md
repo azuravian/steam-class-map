@@ -1,0 +1,1 @@
+# steam-class-map
